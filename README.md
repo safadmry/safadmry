@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, Ben Safa Cemil Demiray! 👋
 
-<!--
-**safadmry/safadmry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Hakkımda**
+* 💻 Isparta Uygulamalı Bilimler Üniversitesi (ISUBÜ) Bilgisayar Programcılığı bölümünde eğitimime devam ediyorum.
+* 📍 Kayseri'de yaşıyor ve mobil/masaüstü dünyasında yenilikçi çözümler üretiyorum.
+* 📱 Şu anda Flutter ile profesyonel mobil uygulamalar (Zikirmatik Pro vb.) ve C# ile masaüstü otomasyon sistemleri geliştiriyorum.
+* 🧠 Sürekli öğrenmeye inanıyor; yazılım mimarileri, psikoloji, tarih ve felsefe gibi farklı disiplinlerle vizyonumu genişletiyorum.
 
-Here are some ideas to get you started:
+🛠️ **Teknoloji Yığınım (Tech Stack)**
+* **Mobil Geliştirme:** Flutter, Dart
+* **Masaüstü Geliştirme:** C#, Windows Forms
+* **Veritabanı & Araçlar:** SQL, Git, OOP Mimari
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **İletişim**
+* **LinkedIn:** [Profil Linkini Buraya Ekle]
+* **E-posta:** [E-posta Adresini Buraya Ekle]
