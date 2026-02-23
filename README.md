@@ -2,7 +2,7 @@
 
 🚀 **Hakkımda**
 * 💻 Isparta Uygulamalı Bilimler Üniversitesi (ISUBÜ) Bilgisayar Programcılığı bölümünde eğitimime devam ediyorum.
-* 📍 Kayseri'de yaşıyor ve mobil/masaüstü dünyasında yenilikçi çözümler üretiyorum.
+* 📍 mobil/masaüstü dünyasında yenilikçi çözümler üretiyorum.
 * 📱 Şu anda Flutter ile profesyonel mobil uygulamalar (Zikirmatik Pro vb.) ve C# ile masaüstü otomasyon sistemleri geliştiriyorum.
 * 🧠 Sürekli öğrenmeye inanıyor; yazılım mimarileri, psikoloji, tarih ve felsefe gibi farklı disiplinlerle vizyonumu genişletiyorum.
 
@@ -12,5 +12,5 @@
 * **Veritabanı & Araçlar:** SQL, Git, OOP Mimari
 
 📫 **İletişim**
-* **LinkedIn:** [Profil Linkini Buraya Ekle]
-* **E-posta:** [E-posta Adresini Buraya Ekle]
+
+* **E-posta:** 5838gss@gmail.com
